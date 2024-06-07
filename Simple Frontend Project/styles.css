@@ -1,0 +1,36 @@
+.main_container
+{
+    background-color: blueviolet;
+    padding-left: 20px;
+    color: white;
+    padding: 10px;
+}
+.sub_container
+{
+    display: flex;
+    
+}
+.container1
+{
+    padding: 20px;
+    color: rgb(34, 34, 34);
+    
+}
+.sub_container1
+{
+    width: 43%;
+}
+.container2
+{
+    width: 23%;
+    padding-top:50px;
+    padding-left: 100px;
+    font-size: 10px;
+}
+.container3
+{
+    width: 23%;
+    padding-top:50px;
+    padding-left: 120px;
+    font-size: 10px;
+}
